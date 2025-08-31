@@ -9,7 +9,7 @@ Meu objetivo é transformar dados e experiências em insights práticos, contrib
 
 Sou Natalie del Pilar Zavaleta, formada em Turismo e Lazer, com interesse especial em:
 
-📊 Gestão de performance e indicadores
+📊 [Gestão de performance e indicadores ](project01.pdf)
 
 🌍 Planejamento turístico e cultural
 
